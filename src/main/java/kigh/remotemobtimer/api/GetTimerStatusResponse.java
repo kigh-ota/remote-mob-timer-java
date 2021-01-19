@@ -1,9 +1,7 @@
 package kigh.remotemobtimer.api;
 
-import lombok.Value;
-
-import java.util.Collections;
 import java.util.List;
+import lombok.Value;
 
 @Value
 class GetTimerStatusResponse {
